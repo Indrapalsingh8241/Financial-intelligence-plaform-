@@ -1,12 +1,5 @@
 # 📈 Bluestock N100 Financial Intelligence Platform
 
-<p align="center">
-
-[![Live Dashboard](https://img.shields.io/badge/🚀%20Live-Dashboard-success?style=for-the-badge)](https://nifty100analytics.streamlit.app/Home)
-[![Swagger API](https://img.shields.io/badge/⚡%20REST%20API-Swagger-blue?style=for-the-badge)](https://n100-financial-intelligence-platform-gy4w.onrender.com/docs)
-[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-GitHub-black?style=for-the-badge)](https://github.com/Bhavesh-Bansode/N100-Financial-Intelligence-Platform)
-
-</p>
 
 > An end-to-end financial analytics platform for analysing Nifty 100 companies through automated ETL pipelines, financial KPI computation, advanced analytics, FastAPI REST APIs, and an interactive Streamlit dashboard.
 
