@@ -417,8 +417,6 @@ https://nifty100analytics.streamlit.app/Home
 REST API:
 https://n100-financial-intelligence-platform-gy4w.onrender.com/docs
 
-GitHub:
-https://github.com/Bhavesh-Bansode/N100-Financial-Intelligence-Platform
 
 ---
 
