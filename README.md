@@ -38,9 +38,6 @@ https://nifty100analytics.streamlit.app/Home
 
 https://n100-financial-intelligence-platform-gy4w.onrender.com/docs
 
-### 📂 Source Code
-
-https://github.com/Bhavesh-Bansode/N100-Financial-Intelligence-Platform
 
 # Key Features
 
